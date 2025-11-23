@@ -1,3 +1,4 @@
+// deprecated (refer to adaptiveStepV2.ts)
 import { Raymarcher } from './raymarcher'
 
 const MAX_STEPS = 100;
