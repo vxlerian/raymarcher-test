@@ -206,7 +206,7 @@ export class SceneManager {
             ]
         },
         {
-            name: "Thin Features",
+            name: "Thin Boxes",
             objects: [
                 SceneManager.createBox(-1.5, 0, 0, vec3.fromValues(0.02, 1.0, 1.0)),
                 SceneManager.createBox(0, 0, 0, vec3.fromValues(1.0, 0.02, 1.0)),
